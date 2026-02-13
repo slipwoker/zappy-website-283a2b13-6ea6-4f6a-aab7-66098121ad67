@@ -1,0 +1,64 @@
+# דקורנט — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### בית
+https://-283a2b13.zappy5.app
+
+### קולקציות
+https://-283a2b13.zappy5.app/collections
+
+### אודות
+https://-283a2b13.zappy5.app/about
+
+### צור קשר
+https://-283a2b13.zappy5.app/contact
+
+### Products
+https://-283a2b13.zappy5.app/products
+המוצרים שלנו - דקורנט
+
+### Product Detail
+https://-283a2b13.zappy5.app/product/:slug
+פרטי המוצר - דקורנט
+
+### Category
+https://-283a2b13.zappy5.app/category/:slug
+מוצרים - דקורנט
+
+## Legal & Policy
+
+### Privacy Policy
+https://-283a2b13.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-283a2b13.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-283a2b13.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About דקורנט
+דקורנט is a business in the General industry.
+
+## Target Audience
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-283a2b13.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-283a2b13.zappy5.app/robots.txt
